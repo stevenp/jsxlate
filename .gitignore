@@ -2,5 +2,7 @@ examples/*/out
 node_modules
 coverage
 build
+.nyc_output
 .idea
 *.iml
+
